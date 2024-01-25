@@ -23,3 +23,11 @@ Scores are displayed once the game is finished.
 
 
 The AI works by playing the move that will score it the most points.
+
+## How to play
+
+Start a project in an IDE of your choice e.g. Intellij or Eclipse 
+
+Download the src file in the repo and place the files into your project
+
+Select the ReversiMain class and run the game.
